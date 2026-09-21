@@ -27,7 +27,7 @@ on:
           - 否
           - 是
 permissions:
-  contents: read
+  contents: write
 jobs:
   run:
     runs-on: ubuntu-latest
